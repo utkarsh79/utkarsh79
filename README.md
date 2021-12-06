@@ -70,13 +70,13 @@ Since childhood👨‍ one of my most remarkable characteristics has been my cur
 ### You can find in me in the web 🌍
 
 [![Twitter: UtkarshNagar77](https://img.shields.io/twitter/follow/UtkarshNagar77?style=social)](https://twitter.com/UtkarshNagar77)
-[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://timeline.saugatreemal.engineer/)
-[![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatreemal.engineer/)
+<!-- [![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=https://timeline.saugatreemal.engineer/)](https://timeline.saugatreemal.engineer/)
+[![Hashnode](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://diary.saugatreemal.engineer/) -->
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Linkedin: utkarsh-nagar](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh79/)](https://www.linkedin.com/in/utkarsh79/)
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utkarshnagar79@gmail.com)
 [![GitHub utkarsh-nagar](https://img.shields.io/github/followers/utkarsh79?label=follow&style=social)](https://github.com/utkarsh79)
-[![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)](https://saugatreemal.engineer/)
+<!-- [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)](https://saugatreemal.engineer/) -->
 
 
 
